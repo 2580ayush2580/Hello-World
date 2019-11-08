@@ -1,0 +1,64 @@
+body{
+	background-color:#C0C0C0;
+	/*background-image:url("nidhinarwal.jpg")*/;
+}
+.form
+{
+	background-color:white;
+	margin: 20px  20px  20px  20px;
+	max-width:50%;
+	padding:20px  20px  20px  20px;
+	
+	text-align:centre;
+}
+.formwithcss{
+background-color:pink;
+margin: 20px  20px  20px  20px;
+	max-width:50%;
+	padding:20px  20px  20px  20px;
+	border:5px solid orange;
+	text-align:centre;	
+}
+a{
+	text-decoration:none;
+	color:green;
+}
+ a:hover
+   {
+     background-color:white;
+     color:black;
+     font-family:"georgia";
+   }
+   .postform{
+	   background-color:orange;
+	   margin: 20px  20px  20px  20px;
+	   padding:20px  20px  20px  20px;
+	   max-width:70%;
+   }
+   input[type="text"]{
+	   width:70%;
+	   box-shadow:2px 2px 2px 2px green;
+	  
+   }
+    input[type="text"]:focus{
+		background-color:pink;
+		box-shadow:2px 2px 2px 2px red;
+		font-family:"times new roman";
+		font-size:18px;
+	}
+   textarea{
+	   width:70%;
+	   box-shadow:2px 2px 2px 2px red;
+   }
+   select{
+	   width:70%;
+	  box-shadow:2px 2px 2px 2px red;  
+   }
+   header{
+	   background:linear-gradient(pink,orange,blue);
+   }
+   .ayush{
+	   margin-left:auto;
+	   margin-right:auto;
+	   max-width:100px;
+   }
